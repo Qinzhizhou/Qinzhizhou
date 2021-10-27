@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Qinzhizhou
 - 👀 I’m interested in using data to learn something
-- 🌱 I’m currently learning MSc Data Analytics in University of Sheffield
+- 🌱 I’m currently learning Data Analytics in University of Sheffield
 - 📫 How to reach me email:qinzhiz@outlook.com
